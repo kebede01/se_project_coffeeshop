@@ -135,7 +135,7 @@
   padding: 100px 80px 215px 80px;
 }
 
-.receipes-content {
+.recipes__content {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -151,7 +151,7 @@
   line-height: 52px;
 }
 
-.receipes__paragraph {
+.recipes__paragraph {
   max-width: 438px;
   margin: 0 0 80px;
   font-family: "Noto Serif";
@@ -159,14 +159,17 @@
   line-height: 30px;
 }
 
-.receipes__iframes {
+.recipes__iframes {
   display: flex;
   gap: 40px;
   margin: 0 auto;
   overflow: hidden;
 }
 
-.receipe__caption {
+.recipe__iframe {
+  border: none;
+}
+.recipe__caption {
   margin: 24px 0 0;
   display: flex;
   justify-content: space-between;
