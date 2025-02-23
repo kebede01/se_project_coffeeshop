@@ -166,10 +166,10 @@
   overflow: hidden;
 }
 
-.recipe__iframe {
+.recipes__iframe {
   border: none;
 }
-.recipe__caption {
+.recipes__caption {
   margin: 24px 0 0;
   display: flex;
   justify-content: space-between;
