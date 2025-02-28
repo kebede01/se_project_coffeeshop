@@ -18,7 +18,7 @@
 .recipes__header {
   margin: 0 0 24px;
   max-width: 580px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -27,7 +27,7 @@
 .recipes__paragraph {
   max-width: 438px;
   margin: 0 0 80px;
-  font-family: "Noto Serif";
+  font-family: "Noto serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
 }
@@ -46,7 +46,7 @@
   margin: 24px 0 0;
   display: flex;
   justify-content: space-between;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;

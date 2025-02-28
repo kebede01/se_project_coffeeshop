@@ -12,7 +12,7 @@
 }
 
 .form__input::placeholder {
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -21,7 +21,7 @@
 }
 
 .form__label {
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -30,6 +30,7 @@
 }
 
 .form__button {
+  cursor: pointer;
   padding: 20px 0;
   margin: 0 0 32px;
   width: 100%;
