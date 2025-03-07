@@ -16,13 +16,12 @@
 .about {
   background-color: #0a2850;
   color: #fff;
-  font-family: "Inter", Arial, sans-serif;
   padding: 100px 80px 173px;
   display: flex;
   justify-content: space-between;
   position: relative;
   overflow: hidden;
-  z-index: 0;
+  z-index: 1;
 }
 
 .about__title {
@@ -42,7 +41,7 @@
 
 .about__paragraph {
   margin: 0;
-  width: 660px;
+  max-width: 660px;
   font-family: "Noto serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;

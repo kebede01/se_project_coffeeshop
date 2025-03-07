@@ -1,6 +1,5 @@
 .footer {
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-  height: 40vh;
   padding: 60px 80px;
   color: white;
 }
@@ -28,6 +27,10 @@
 }
 
 .footer__column-heading {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fff;
   margin: 0 0 20px;
   text-align: right;
 }
@@ -45,10 +48,6 @@
   height: 16px;
   margin-right: 10px;
 }
-.footer__social-icon {
-  width: 16px;
-  height: 16px;
-}
 
 .footer__social-icon[alt="instagram icon"] {
   background-color: white;
@@ -56,4 +55,6 @@
 
 .footer__copyright {
   margin: 100px 0 0;
+  font-size: 16px;
+  line-height: 20px;
 }
