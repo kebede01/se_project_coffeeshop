@@ -7,6 +7,7 @@
 .footer__social-link {
   text-decoration: none;
   color: white;
+  cursor: pointer;
   display: flex;
   align-items: center;
   opacity: 1;
@@ -55,6 +56,4 @@
 
 .footer__copyright {
   margin: 100px 0 0;
-  font-size: 16px;
-  line-height: 20px;
 }
