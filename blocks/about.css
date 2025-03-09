@@ -33,6 +33,7 @@
 }
 
 .about__content {
+  padding: 100px 80px 173px;
   display: flex;
   flex-direction: column;
   justify-content: center;

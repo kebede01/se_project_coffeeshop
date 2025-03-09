@@ -50,10 +50,12 @@
   margin-right: 10px;
 }
 
-.footer__social-icon[alt="instagram icon"] {
+.footer__social-icon_background{
   background-color: white;
 }
 
 .footer__copyright {
   margin: 100px 0 0;
+  font-size: 16px;
+  line-height: 20px;
 }
